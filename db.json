@@ -1,7 +1,7 @@
 {
   "accc8ebec48d": [
     { "id": "ID1", "ip": "10.56.34.26", "remote_port": 10555, "local_port": 554 },
-    { "id": "ID2", "ip": "10.56.34.26", "remote_port": 10080, "local_port": 80 }
+    { "id": "ID2", "ip": "10.56.34.26", "remote_port": 10080, "local_port": 80 },
     { "id": "ID3", "ip": "10.56.34.26", "remote_port": 18080, "local_port": 8080 }
   ]
 }
